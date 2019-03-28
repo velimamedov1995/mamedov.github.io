@@ -1,5 +1,5 @@
 //Task 1  
-/*
+
 function printTimeout(str, n) { 
 
 let a = '';
@@ -13,7 +13,7 @@ return a;
 console.log( printTimeout('hello', )); // hello will appear after 10secs in console
 
 //Task 2 
-/*
+
 function SumtoN(n) { 
 
 let sum = 0;
@@ -179,7 +179,7 @@ function filterUsersByMonth(users, month) {
 }
 console.log(filterUsersByMonth(users, 0)); // [{ name: 'Bill', birthday: '1999-1-19' }]
 
-*/
+
 
 const users = [
   { name: 'John', birthday: '1999-6-12' },
