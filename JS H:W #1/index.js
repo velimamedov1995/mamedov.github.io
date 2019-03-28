@@ -1,4 +1,4 @@
-/*
+
 //Task 2 - Reverse String 
 function reverseString(str) {
 let newStr = '';
@@ -171,7 +171,8 @@ function removeDuplicationLetters(str) {
 
 alert(removeDuplicationLetters('Hello I am Iron Man'));
 
-*/
+
+
 
 
 
