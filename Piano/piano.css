@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css?family=Mrs+Sheppards');
+
+body { 
+
+	margin : 0;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+
+ }
+
+.container { 
+ 	
+ 		margin-top: 20vh;
+		display: flex;
+		flex-direction: row;
+		width: 50%;
+    	justify-content: space-evenly;
+	
+  }
+
+.container div { 
+
+		background-color: white;
+		width: 5vw;
+		height: 30vh;
+		border-radius: 10px;
+		font-family: 'Mrs Sheppards', cursive;
+		font-size: 40px;
+		display: flex;
+		align-items: flex-end;
+		text-align: center;
+
+   }
+
+.container p {
+
+	margin-bottom: 5px;
+	margin-left: 17px;
+	color: black;
+  }
+   div div:hover {
+		background-color: purple;
+		
+  }
